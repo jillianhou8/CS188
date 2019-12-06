@@ -10,4 +10,6 @@ Projects from [_course website_](https://inst.eecs.berkeley.edu/~cs188/fa19/)
 - BNs and HMMs : Probabilistic inference in a Hidden Markov Model [_project description_](https://inst.eecs.berkeley.edu/~cs188/fa19/project4/)
 - Machine Learning : Perceptron algorithm, neural network models, digit classification [_project description_](https://inst.eecs.berkeley.edu/~cs188/fa19/project5/)
 
+Please note, this repository is for personal and employment uses and is not meant to be reproduced by future students in CS188! Thank you :)
+
 
